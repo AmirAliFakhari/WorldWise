@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Merens-les-Vals",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-24T18:54:07.046Z",
+      "notes": "salam\n",
+      "position": {
+        "lat": "42.61866638624772",
+        "lng": "1.7578125000000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Zavareh",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-09-24T18:54:24.723Z",
+      "notes": "",
+      "position": {
+        "lat": "49.329431634203495",
+        "lng": "26.279296875000004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Anarak",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2023-09-24T18:54:50.819Z",
+      "notes": "",
+      "position": {
+        "lat": "34.05370773307643",
+        "lng": "53.74511718750001"
+      },
+      "id": 98443201
+    }
+  ]
+}
